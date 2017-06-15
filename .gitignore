@@ -1,0 +1,7 @@
+*-level1.tmx
+*-level2.tmx
+*-omegat.tmx
+omegat/*.bak
+omegat/project_stats.txt
+omegat/last_entry.properties
+target
