@@ -4392,6 +4392,14 @@ This language version:	Marc Prior</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This HowTo describes how to compile OmegaT from the source code.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20170616T095009Z" creationid="briac" creationdate="20170616T095009Z">
+        <seg>This HowTo describes how to compile OmegaT from the source code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
       </tuv>
       <tuv lang="fr" changeid="LF Aligner 4.1" changedate="20170403T152024Z" creationid="LF Aligner 4.1" creationdate="20170403T152024Z">
