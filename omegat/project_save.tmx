@@ -3520,6 +3520,14 @@ This language version:	Marc Prior</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20170615T123805Z" creationid="briac" creationdate="20170615T123805Z">
+        <seg>Aucun résultat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Periodic builds are available on CloudBees.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170403T144758Z" creationid="briac" creationdate="20170403T144758Z">
