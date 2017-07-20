@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_1_9924M" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10022M" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3592,6 +3592,14 @@ This language version:	Marc Prior</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please contact the &lt;g1&gt;OmegaT project manager&lt;/g1&gt; regarding any point not covered above.&lt;x2/&gt; Please contact the &lt;g3&gt;webmaster&lt;/g3&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20170720T093508Z" creationid="briac" creationdate="20170720T093508Z">
+        <seg>Merci de contacter le &lt;g1&gt;coordinateur du projet OmegaT&lt;/g1&gt; concernant tout point non couvert ci-dessus.&lt;x2/&gt; Contactez le &lt;g3&gt;webmaster&lt;/g3&gt; pour tout sujet concernant le site web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170331T132022Z" creationid="briac" creationdate="20170331T132022Z">
@@ -5120,6 +5128,14 @@ This language version:	Marc Prior</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{% else %} &lt;g1&gt;Download&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20170720T093245Z" creationid="briac" creationdate="20170720T093245Z">
+        <seg>{% else %} &lt;g1&gt;Télécharger&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{% endfor %}</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170331T122903Z" creationid="briac" creationdate="20170331T122903Z">
@@ -5180,6 +5196,14 @@ This language version:	Marc Prior</seg>
       </tuv>
       <tuv lang="fr" changeid="briac" changedate="20170406T084757Z" creationid="briac" creationdate="20170406T084757Z">
         <seg>{% if page.lang != "en" %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% if platform.link != null %} &lt;g1&gt;Download&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="briac" changedate="20170720T093237Z" creationid="briac" creationdate="20170720T093237Z">
+        <seg>{% if platform.link != null %} &lt;g1&gt;Télécharger&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
